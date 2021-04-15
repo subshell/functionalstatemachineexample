@@ -9,4 +9,4 @@ See [Implementing Functional State Machines with Go] for full article.
 
 
 
-[Implementing Functional State Machines with Go]: https://www.subshell.com/blog/go-functional-state-machines100.html
+[Implementing Functional State Machines with Go]: https://subshell.com/blog/go-functional-state-machines100.html
