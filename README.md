@@ -10,3 +10,8 @@ See [Implementing Functional State Machines with Go] for full article.
 
 
 [Implementing Functional State Machines with Go]: https://subshell.com/blog/go-functional-state-machines100.html
+
+
+* * *
+
+Take a look at this project from the [subshell](https://subshell.com) team. We make [Sophora](https://subshell.com/sophora/): a content management software for content creation, curation, and distribution. [Join our team!](https://subshell.com/jobs/) | [Imprint](https://subshell.com/about/imprint/)
